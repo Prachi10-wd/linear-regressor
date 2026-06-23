@@ -102,4 +102,4 @@ jupyter notebook insurance_predictor.ipynb
 ## 📌 Part of My ML Journey
 
 I'm documenting every step of my machine learning journey publicly — the failures, the fixes, and the wins.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/prachi-ai1011/) to follow along.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/prachi-g-6493b8354/) to follow along.
